@@ -6,7 +6,7 @@ The CPI shiny application is currently hosted at [shinyapps.io](https://kunov.sh
 
 For more information on the code please visit https://github.com/manolo20/cpi_dashboard_StatCan.
 
-For any questions or suggestions feel free to contact me by e-mail at mmala027@uottawa.ca.
+
 
 
 
